@@ -334,3 +334,4 @@ mySprite = sprites.create(img`
 Function1()
 Function2()
 Function3()
+game.splash("Thank You!")
